@@ -6,11 +6,13 @@ How Do I Complete My Acorn TV Account Sign In?
    :caption: Contents:
 
 Learn how to easily complete your Acorn TV account sign in, solve login issues, and enjoy seamless streaming on any device.
+
 .. image:: sign-in.jpg
    :alt: My Project Logo
    :width: 400px
    :align: center
    :target: https://aclogportal.com/acorntv-signin
+
 
   For viewers interested in foreign dramas, British mysteries, and unique, hard-to-find TV shows, Acorn TV has quickly become the streaming platform of choice.  Be sure you have access to your Acorn TV account before you start your next binge-watching session.  This tutorial will provide you with easy-to-follow instructions to login in, reset your password, or troubleshoot common issues.
 
